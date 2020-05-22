@@ -9,10 +9,6 @@
 
 ## 0. Set-Up
 
-__A User can see my initial repository and live demo__
-
-### Branch
-
 1. I have created this repository 
 1. I added all folders which I need in the this repository 
 1. I have edited all changes in the HTML and CSS due to tabs in the `<nav>` element 
